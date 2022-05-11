@@ -4,5 +4,5 @@ This ECFP generator can be used to extract "Extended Connectivity FingerPrint" w
 
 To use this class file, simply put it in the same directory as the downloaded cdk-2.5.jar, and use shell command:
 ```
-java -cp .;cdk-2.2.jar CDKImpl [smiles] ECFP6 3
+java -cp .;cdk-2.5.jar CDKImpl [smiles] ECFP6 3
 ```
